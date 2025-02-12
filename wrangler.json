@@ -1,7 +1,7 @@
 {
   "compatibility_date": "2024-11-01",
   "main": "src/index.ts",
-  "name": "aged-bar-9764",
+  "name": "ai",
   "upload_source_maps": true,
   "ai": {
     "binding": "AI"
